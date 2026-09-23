@@ -5,7 +5,7 @@ Gruppe (laut Vortragsgruppen-Liste, Aufgabe 4, Woche 6): Leorat Krasniqi, Teoman
 | Datei | Inhalt |
 |---|---|
 | `Vortrag4_Berkeley_Analyse.ipynb` | Kommentierter Python-Code (Jupyter), ausgeführt mit allen Ausgaben, inkl. Literaturverzeichnis |
-| `Vortrag4_Ausarbeitung.docx` / `.pdf` | Schriftliche Ausarbeitung, 12 Seiten ohne Titelblatt und Literaturverzeichnis (verlangt: ≥ 3 × 2 = 6), Belege nach APA 7 |
+| `Vortrag4_Ausarbeitung.docx` / `.pdf` | Schriftliche Ausarbeitung mit Inhaltsverzeichnis, 12 Textseiten ohne Titelblatt, Inhalts- und Literaturverzeichnis (verlangt: ≥ 3 × 2 = 6), Belege nach APA 7 |
 | `Vortrag4_Praesentation.pptx` | 12 Folien für 15 Minuten (3 × 5), Quellen auf jeder Folie, Sprechernotizen |
 | `abbildungen/` | Die 5 Diagramme als PNG (werden vom Notebook erzeugt) |
 
