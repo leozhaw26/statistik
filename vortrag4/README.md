@@ -1,4 +1,4 @@
-# Vortrag 4 (Python): Zulassungen an der UC Berkeley 1973
+# Vortrag 4 (Python): Das Simpson-Paradoxon an der UC Berkeley (Zulassungen 1973)
 
 Gruppe (laut Vortragsgruppen-Liste, Aufgabe 4, Woche 6): Leorat Krasniqi, Teoman-Doganay Lam, Filip Lazic
 
@@ -6,7 +6,7 @@ Gruppe (laut Vortragsgruppen-Liste, Aufgabe 4, Woche 6): Leorat Krasniqi, Teoman
 |---|---|
 | `Vortrag4_Berkeley_Analyse.ipynb` | Kommentierter Python-Code (Jupyter), ausgeführt mit allen Ausgaben, inkl. Literaturverzeichnis |
 | `Vortrag4_Ausarbeitung.docx` / `.pdf` | Schriftliche Ausarbeitung mit Inhaltsverzeichnis, 12 Textseiten ohne Titelblatt, Inhalts- und Literaturverzeichnis (verlangt: ≥ 3 × 2 = 6), Belege nach APA 7 |
-| `Vortrag4_Praesentation.pptx` / `.pdf` | 12 Folien für 15 Minuten (3 × 5), Quellen auf jeder Folie, Sprechernotizen |
+| `Vortrag4_Praesentation.pptx` / `.pdf` | Erste Folienfassung (12 Folien). Die überarbeitete Präsentation mit 15 Folien liegt als Foliendeck auf claude.ai und lässt sich dort als PowerPoint oder PDF herunterladen |
 | `abbildungen/` | Die 5 Diagramme als PNG (werden vom Notebook erzeugt) |
 
 Notebook ausführen (Anaconda): `jupyter notebook Vortrag4_Berkeley_Analyse.ipynb`, dann *Run All*.
